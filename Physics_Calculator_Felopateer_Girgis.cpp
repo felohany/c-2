@@ -1,4 +1,7 @@
 // Physics Calc
+//3-27-19
+//DR.T
+//TCC TR Campus
 
 #include<iostream>
 #include<iomanip>
